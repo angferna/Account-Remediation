@@ -124,7 +124,7 @@ function mousePositionData() {
     var encodedUri = encodeURI(csvContent);
     var link = document.createElement("a");
     link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "mouseEventData.csv");
+    link.setAttribute("download", "mousePositionData.csv");
     document.body.appendChild(link); // Required for FF
 
     link.click();
