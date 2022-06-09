@@ -16,6 +16,6 @@ HOW TO CREATE A SIMULATION PAGE:
      * mouseEventData() - Exports CSV of Click and Hover Data​
      * mousePositionData() - Exports CSV of mouse position from the start of the simulation​
 
-​* View data in spreadsheet viewer such as Excel for analysis​
+* View data in spreadsheet viewer such as Excel for analysis​
 
 ​
