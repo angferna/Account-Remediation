@@ -8,7 +8,7 @@ HOW TO CREATE A SIMULATION PAGE:
      * Mht2htm.exe​
 
 * Link our JavaScript at the top of HTML​
-     * <script src="main.js"></script>​
+     * > <script src="main.js"></script>​
 
 * Start the simulation with the test user​
 
