@@ -5,7 +5,7 @@ HOW TO CREATE A SIMULATION PAGE:
 * Test user downloads their personal source code and send it to researcher​
 
 * Researcher uses the MHTML converter to produce the simulated webpage​
-     * Mht2htm.exe​
+     * [Mht2htm.exe​](https://sourceforge.net/projects/mht2htm/)
 
 * Link our JavaScript at the top of HTML​
      * `<script src="main.js"></script>`​
